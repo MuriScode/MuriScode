@@ -48,12 +48,12 @@ Tecnologias: HTML, CSS, JavaScript, Leaflet.js e API com Node.js.
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriScode&layout=donut-vertical&langs_count=7&theme=transparent" width="250" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MuriScode&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" width="500" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuriScode&theme=onedark&show_icons=true&hide_border=true&count_private=true" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriScode&theme=onedark&show_icons=true&hide_border=true&layout=compact" width="270"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriScode&theme=onedark&hide_border=true" width="350"/>
 </div>
-
-
+  
 ---
 
 ## 🌐 Onde me encontrar
